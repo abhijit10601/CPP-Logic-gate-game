@@ -12,7 +12,9 @@ The tech-stack used in developing the Logic Gates Game is C++, a powerful and ve
 Overall, the Logic Gates Game developed during the mentioned period serves as an educational tool for users to learn about logic gates through an interactive and engaging gameplay experience. The utilization of data file handling and OOPs concepts, along with the tech-stack of C++, contributes to the effectiveness and functionality of the game.
 
 ##Screenshots
+
 ![game](https://github.com/abhijit10601/CPP-Logic-gate-game/assets/106448232/acddf0c3-08ce-4fe2-85d8-69378e766bb6)
+
 ![account](https://github.com/abhijit10601/CPP-Logic-gate-game/assets/106448232/383ec8d3-3781-49fa-b0d1-84b75d9c7752)
 
 ![logic1](https://github.com/abhijit10601/CPP-Logic-gate-game/assets/106448232/a1aa6481-2945-4340-ba6a-8914dc3926b1)
